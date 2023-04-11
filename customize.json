@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi",
+  "name": "Emara",
+  "greetingText": "Aku suka banget nama kamu!",
+  "wishText": "Semoga yang kamu semogakan akan terpenuhi di tahun ini ;)",
+  "imagePath": "img/emara.png",
+  "text1": "Selamat Ulang Tahun Sayang!!! :)",
+  "textInChatBox": "Selamat Ulang Tahun!! Yeee! Semoga blah blah...",
+  "sendButtonLabel": "Kirim",
+  "text2": "Tapi aku pikir itu ngga cukup.",
+  "text3": "Jadi aku berhenti.",
+  "text4": "Dan tersadar, aku harus melakukan sesuatu",
+  "text4Adjective": "Yang Spesial",
+  "text5Entry": "Karena,",
+  "text5Content": "Kamu Spesial Bagi Aku",
+  "smiley": ":)",
+  "bigTextPart1": "JA",
+  "bigTextPart2": "DI",
+  "wishHeading": "Selamat Ulang Tahun!",
+  "outroText": "Oke, Sekarang kasih tau ya kalo kamu suka..",
+  "replayText": "Kamu bisa klik lagi kalau kamu mau lihat ulang.",
+  "outroSmiley": ":)"
+}
